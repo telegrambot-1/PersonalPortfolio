@@ -1,0 +1,91 @@
+<svg width="940" height="1400" viewBox="0 0 940 1400" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <!-- Navbar -->
+  <rect x="0" y="0" width="940" height="70" fill="#454143"/>
+  <text x="40" y="45" font-size="28" fill="#fff" font-weight="bold">Logo</text>
+  <text x="300" y="45" font-size="22" fill="#fff">About</text>
+  <text x="400" y="45" font-size="22" fill="#fff">Work</text>
+  <text x="500" y="45" font-size="22" fill="#fff">Gallery</text>
+  <text x="630" y="45" font-size="22" fill="#fff">Contact</text>
+  <!-- Icons as circles -->
+  <circle cx="870" cy="35" r="15" fill="#fff"/>
+  <circle cx="900" cy="35" r="15" fill="#fff"/>
+  
+  <!-- Hero Section -->
+  <rect x="0" y="70" width="940" height="230" fill="#f8f8f6"/>
+  <!-- Large Photo -->
+  <circle cx="180" cy="185" r="75" fill="#dddddd" stroke="#aaa" stroke-width="2"/>
+  <text x="315" y="150" font-size="34" fill="#454143" font-weight="bold">Your Name</text>
+  <text x="315" y="190" font-size="24" fill="#454143">Title / Role</text>
+  <text x="315" y="225" font-size="18" fill="#454143">Short introduction about yourself goes here.</text>
+  <!-- Gold Button -->
+  <rect x="315" y="245" width="180" height="44" rx="12" fill="#dd9e41"/>
+  <text x="355" y="275" font-size="20" fill="#fff" font-weight="bold">Learn More</text>
+
+  <!-- Where I Belong -->
+  <rect x="0" y="300" width="940" height="110" fill="#fff"/>
+  <text x="40" y="345" font-size="26" fill="#454143" font-weight="bold">Where I Belong</text>
+  <g>
+    <rect x="200" y="320" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="300" y="320" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="400" y="320" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="500" y="320" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="600" y="320" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+  </g>
+
+  <!-- Work With -->
+  <rect x="0" y="410" width="940" height="110" fill="#fff"/>
+  <text x="40" y="455" font-size="26" fill="#454143" font-weight="bold">Work With</text>
+  <g>
+    <rect x="200" y="430" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="300" y="430" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="400" y="430" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="500" y="430" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="600" y="430" width="70" height="70" rx="10" fill="#eaeaea" stroke="#bbb"/>
+  </g>
+
+  <!-- About -->
+  <rect x="0" y="520" width="940" height="180" fill="#f8f8f6"/>
+  <text x="40" y="565" font-size="26" fill="#454143" font-weight="bold">About</text>
+  <rect x="200" y="545" width="130" height="130" rx="20" fill="#dddddd" stroke="#aaa"/>
+  <text x="350" y="575" font-size="18" fill="#454143">This is a text block with a styled heading and a portrait image.</text>
+
+  <!-- Certificates -->
+  <rect x="0" y="710" width="940" height="170" fill="#fff"/>
+  <text x="40" y="750" font-size="26" fill="#454143" font-weight="bold">Certificates</text>
+  <g>
+    <rect x="200" y="770" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="300" y="770" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="400" y="770" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="500" y="770" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="600" y="770" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+  </g>
+
+  <!-- Gallery / Projects -->
+  <rect x="0" y="890" width="940" height="170" fill="#f8f8f6"/>
+  <text x="40" y="930" font-size="26" fill="#454143" font-weight="bold">Gallery / Projects</text>
+  <g>
+    <rect x="200" y="950" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="300" y="950" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="400" y="950" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="500" y="950" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+    <rect x="600" y="950" width="80" height="80" rx="10" fill="#eaeaea" stroke="#bbb"/>
+  </g>
+
+  <!-- Footer / Sidebar -->
+  <rect x="0" y="1100" width="940" height="180" fill="#454143"/>
+  <text x="40" y="1150" font-size="26" fill="#fff" font-weight="bold">Reach Out</text>
+  <!-- Social Icons -->
+  <g>
+    <circle cx="200" cy="1175" r="23" fill="#0077b5"/>
+    <text x="192" y="1183" font-size="20" fill="#fff" font-weight="bold">in</text>
+    <circle cx="260" cy="1175" r="23" fill="#222"/>
+    <text x="250" y="1183" font-size="20" fill="#fff" font-weight="bold">GH</text>
+    <circle cx="320" cy="1175" r="23" fill="#ef4444"/>
+    <text x="309" y="1183" font-size="20" fill="#fff" font-weight="bold">@</text>
+  </g>
+  <!-- Contact Details -->
+  <text x="40" y="1210" font-size="20" fill="#fff">email@example.com | +1-234-567-8901</text>
+  <!-- Accent highlights -->
+  <rect x="600" y="1160" width="80" height="10" fill="#ef4444" rx="4"/>
+  <rect x="700" y="1160" width="80" height="10" fill="#14b8a6" rx="4"/>
+</svg>
